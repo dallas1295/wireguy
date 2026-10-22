@@ -1,9 +1,9 @@
 [package]
-name = "wiregui"
+name = "wireguy"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+defguard_wireguard_rs = "0.12.3"
 eframe = "0.37.0"
 egui = "0.37.0"
-wireguard = "0.2.0"
